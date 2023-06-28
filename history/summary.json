@@ -4,19 +4,19 @@
     "url": "https://verify.blcshine.io/brand/BLC_UK/services",
     "icon": "https://icons.duckduckgo.com/ip3/verify.blcshine.io.ico",
     "slug": "verify",
-    "status": "down",
-    "uptime": "13.46%",
-    "uptimeDay": "13.46%",
-    "uptimeWeek": "13.46%",
-    "uptimeMonth": "13.46%",
-    "uptimeYear": "13.46%",
-    "time": 486,
-    "timeDay": 486,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "status": "up",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 1097,
+    "timeDay": 1097,
+    "timeWeek": 1097,
+    "timeMonth": 1097,
+    "timeYear": 1097,
     "dailyMinutesDown": {
-      "2023-06-28": 0
+      "2023-06-28": 107
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 814,
-    "timeWeek": 814,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "time": 839,
+    "timeDay": 839,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 859,
-    "timeWeek": 859,
-    "timeMonth": 859,
-    "timeYear": 859,
+    "time": 979,
+    "timeDay": 979,
+    "timeWeek": 979,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 590,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "time": 548,
+    "timeDay": 548,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   }
 ]
