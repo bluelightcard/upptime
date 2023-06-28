@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Verify
     url: https://verify.blcshine.io/brand/BLC_UK/services
-    method: POST
+    method: GET
     headers:
       - "x-api-key: $VERIFY_API_KEY"
   - name: BLC UK Homepage
