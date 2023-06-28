@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.blcshine.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.bluelightcard.co.uk/web/logos/blc-logo-landscape.png
   name: BlueLight Systems Status
   # introTitle: ""
   introMessage: BlueLight provides discounts and exclusive offers for health care workers, and armed forces members.
