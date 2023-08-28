@@ -42,18 +42,20 @@
     "url": "https://bluelightcard.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/bluelightcard.com.au.ico",
     "slug": "blc-australia-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1073,
-    "timeDay": 751,
-    "timeWeek": 980,
-    "timeMonth": 1095,
-    "timeYear": 1073,
-    "dailyMinutesDown": {}
+    "time": 1059,
+    "timeDay": 452,
+    "timeWeek": 877,
+    "timeMonth": 1065,
+    "timeYear": 1059,
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   },
   {
     "name": "DDS UK Homepage",
