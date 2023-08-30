@@ -24,19 +24,19 @@
     "url": "https://bluelightcard.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/bluelightcard.co.uk.ico",
     "slug": "blc-uk-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 840,
-    "timeWeek": 864,
-    "timeMonth": 1119,
-    "timeYear": 1011,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1007,
+    "timeDay": 784,
+    "timeWeek": 847,
+    "timeMonth": 1107,
+    "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-08-30": 2
+      "2023-08-30": 6
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.defencediscountservice.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.defencediscountservice.co.uk.ico",
     "slug": "dds-uk-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 426,
-    "timeWeek": 491,
-    "timeMonth": 690,
-    "timeYear": 645,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 642,
+    "timeDay": 438,
+    "timeWeek": 486,
+    "timeMonth": 683,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-08-30": 0
+      "2023-08-30": 5
     }
   }
 ]
