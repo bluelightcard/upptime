@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1561,
-    "timeDay": 695,
-    "timeWeek": 1453,
-    "timeMonth": 1464,
-    "timeYear": 1561,
+    "time": 1563,
+    "timeDay": 1650,
+    "timeWeek": 1490,
+    "timeMonth": 1459,
+    "timeYear": 1563,
     "dailyMinutesDown": {
       "2023-06-28": 107
     }
@@ -26,15 +26,15 @@
     "slug": "blc-uk-homepage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 992,
-    "timeDay": 776,
-    "timeWeek": 848,
-    "timeMonth": 1091,
-    "timeYear": 992,
+    "time": 990,
+    "timeDay": 867,
+    "timeWeek": 850,
+    "timeMonth": 1089,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2023-09-04": 19,
       "2023-08-30": 6
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1054,
-    "timeDay": 958,
-    "timeWeek": 1062,
-    "timeMonth": 1074,
-    "timeYear": 1054,
+    "time": 1052,
+    "timeDay": 881,
+    "timeWeek": 1065,
+    "timeMonth": 1053,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-08-28": 6
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 430,
-    "timeWeek": 468,
-    "timeMonth": 663,
-    "timeYear": 629,
+    "time": 627,
+    "timeDay": 518,
+    "timeWeek": 479,
+    "timeMonth": 662,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2023-08-30": 5
     }
