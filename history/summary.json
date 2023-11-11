@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/verify.blcshine.io.ico",
     "slug": "verify",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 1552,
-    "timeDay": 1327,
-    "timeWeek": 1422,
-    "timeMonth": 1569,
-    "timeYear": 1552,
+    "uptimeYear": "99.95%",
+    "time": 1551,
+    "timeDay": 1432,
+    "timeWeek": 1434,
+    "timeMonth": 1560,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2023-06-28": 107
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 949,
-    "timeDay": 1620,
-    "timeWeek": 1092,
-    "timeMonth": 950,
+    "timeDay": 850,
+    "timeWeek": 1060,
+    "timeMonth": 945,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2023-09-25": 9,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 1134,
-    "timeWeek": 998,
-    "timeMonth": 992,
-    "timeYear": 1054,
+    "time": 1053,
+    "timeDay": 881,
+    "timeWeek": 1011,
+    "timeMonth": 977,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-08-28": 6
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 538,
-    "timeWeek": 661,
-    "timeMonth": 601,
-    "timeYear": 593,
+    "time": 594,
+    "timeDay": 829,
+    "timeWeek": 663,
+    "timeMonth": 611,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2023-08-30": 5
     }
