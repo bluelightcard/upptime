@@ -1,7 +1,7 @@
 url: https://bluelightcard.co.uk
-status: up
-code: 200
-responseTime: 765
-lastUpdated: 2024-03-26T23:03:35.200Z
+status: down
+code: 500
+responseTime: 354
+lastUpdated: 2024-03-27T12:21:28.108Z
 startTime: Wed Jun 28 2023 11:06:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
